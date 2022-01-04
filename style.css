@@ -16,11 +16,11 @@ h2{
     margin-bottom: 150px;
 }
 .half-width{
-    width: 100%;
+    width: 60%;
     padding-left: 5%;
 }
 .half-width img{
-    width: 10%;
+    width: 50%;
 }
 .link-button{
     text-decoration: none;
